@@ -1,4 +1,4 @@
--- Learning About CSS: Grid --
+## Learning About CSS: Grid
 
 In my current project, I'm working on replicating the iPhone calculator on a webpage using JavaScript and CSS. So far, I've started by working on the CSS portion of designing the calculator how I want it to look and creating all the elements needed. 
 
