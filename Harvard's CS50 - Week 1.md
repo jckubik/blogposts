@@ -1,4 +1,6 @@
-While browsing edx.org last weekend, I came across a two-course program offered by Harvard called "Computer Science for Web Programming" (you can find it here: https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming). 
+## CS50 Week 0
+
+While browsing edx.org last weekend, I came across a two-course program offered by Harvard called "Computer Science for Web Programming" (you can find it [here]( https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)). 
 
 The first of these classes is CS50s Intro to Computer Science which I had heard of before, so I decided to take a stab at it myself and take the course.
 
@@ -6,7 +8,7 @@ The class is broken down into 8-week sections with each week having lectures and
 
 We had to make a project using Scratch that met specific requirements, and I decided to make a game. 
 
-My game, Don't Break My Hearts (https://scratch.mit.edu/projects/454232525), is a paddle-based defender game. The goal is to move the paddle using the left and right arrow keys to defend the hearts at the bottom of the screen from the other suits' cards as they fly around everywhere. 
+My game, [Don't Break My Hearts](https://scratch.mit.edu/projects/454232525), is a paddle-based defender game. The goal is to move the paddle using the left and right arrow keys to defend the hearts at the bottom of the screen from the other suits' cards as they fly around everywhere. 
 
 I created 4 different types of card projectiles to defend against with unique properties:
 
