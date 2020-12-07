@@ -4,8 +4,8 @@ The second week of CS50, also known as week 1 when you count like a programmer (
 
 This past week consisted of two main projects written in C:
 
-  - [mario.c] (https://github.com/jckubik/CS50/blob/main/mario.c)
-  - [credit.c] (https://github.com/jckubik/CS50/blob/main/credit.c)
+  - [mario.c](https://github.com/jckubik/CS50/blob/main/mario.c)
+  - [credit.c](https://github.com/jckubik/CS50/blob/main/credit.c)
   
   ## Mario.c
   
